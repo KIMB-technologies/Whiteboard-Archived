@@ -1,5 +1,6 @@
-> This is a fork, please see original repository:  
+> This is a **old** fork, please see original repository:  
 > [**HERE**](https://github.com/lovasoa/whitebophir)
+> or [**NEW FORK**](https://github.com/KIMB-technologies/Whiteboard/)
 
 # WBO
 WBO is an online collaborative whiteboard that allows many users to draw simultaneously on a large virtual board.
